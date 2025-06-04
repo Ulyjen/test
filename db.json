@@ -1,0 +1,22 @@
+{
+  "application": [
+    {
+      "id": 1001,
+      "name": "Arms Race in Residency Selection",
+      "description": "Use of research productivity to discriminate among applicants.",
+      "investigator": "Kat Joe"
+    },
+    {
+      "id": 1002,
+      "name": "Attention deficit disorder",
+      "description": "Pellentesque quis lobortis ligula. Nullam hendrerit maximus est, ac tincidunt ligula dignissim vel..",
+      "investigator": "John Smith"
+    },
+    {
+      "id": 1003,
+      "name": "The Practice Of Infection Prevention Control Among Health Workers",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae ante eget libero fermentum suscipit.",
+      "investigator": "Andy Young"
+    }
+  ]
+}
