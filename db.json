@@ -11,7 +11,7 @@
           "loginName": "S0987654",
           "firstName": "Kate",
           "lastName": "Joe",
-          "email": "kjoe@stanfordhealthcare.org
+          "email": "kjoe@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Investigator"
         },
@@ -20,7 +20,7 @@
           "loginName": "S0287255",
           "firstName": "Chloe",
           "lastName": "Bower",
-          "email": "cbower@stanfordhealthcare.org
+          "email": "cbower@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Researcher"
         },
@@ -29,7 +29,7 @@
           "loginName": "S0887153",
           "firstName": "Olivia",
           "lastName": "Glover",
-          "email": "oglover@stanfordhealthcare.org
+          "email": "oglover@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Clinician"
         }
@@ -46,7 +46,7 @@
           "loginName": "S1987653",
           "firstName": "John",
           "lastName": "Smith",
-          "email": "jsmith@stanfordhealthcare.org
+          "email": "jsmith@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Investigator"
         },
@@ -55,7 +55,7 @@
           "loginName": "S1297257",
           "firstName": "Clark",
           "lastName": "Lee",
-          "email": "clee@stanfordhealthcare.org
+          "email": "clee@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Researcher"
         },
@@ -64,7 +64,7 @@
           "loginName": "S1867193",
           "firstName": "Zoe",
           "lastName": "Skinner",
-          "email": "zskinner@stanfordhealthcare.org
+          "email": "zskinner@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Clinician"
         }
@@ -81,7 +81,7 @@
           "loginName": "S7987652",
           "firstName": "Andy",
           "lastName": "Young",
-          "email": "ayoung@stanfordhealthcare.org
+          "email": "ayoung@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Investigator"
         },
@@ -90,7 +90,7 @@
           "loginName": "S6287285",
           "firstName": "Wendy",
           "lastName": "Duncan",
-          "email": "wduncan@stanfordhealthcare.org
+          "email": "wduncan@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Researcher"
         },
@@ -99,7 +99,7 @@
           "loginName": "S3887150",
           "firstName": "Nathan",
           "lastName": "Powell",
-          "email": "npowell@stanfordhealthcare.org
+          "email": "npowell@stanfordhealthcare.org"
           "isActive": 1,
           "roleName": "Clinician"
         }
