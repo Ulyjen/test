@@ -45,6 +45,28 @@
             "description": "System for tracking compliance with regulations.",
             "principalInvestigator": "Dr. Emily Carter",
             "createDate": "2023-05-15"
+        },
+        {
+            "id": 104,
+            "name": "Clinical Trial Management System",
+            "irbNumber": [
+                12500
+            ],
+            "isActive": true,
+            "description": "System for managing clinical trials.",
+            "principalInvestigator": "Dr. William Davis",
+            "createDate": "2023-08-10"
+        },
+        {
+            "id": 105,
+            "name": "Data Analysis and Reporting Tool",
+            "irbNumber": [
+                45000
+            ],
+            "isActive": true,
+            "description": "Tool for analyzing research data and generating reports.",
+            "principalInvestigator": "Dr. Linda Martinez",
+            "createDate": "2023-10-05"
         }
     ]
 }
