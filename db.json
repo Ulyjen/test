@@ -3,14 +3,14 @@
     [
         {
             "id": 100,
-            "name": "Research Approval System",
+            "name": "Ambulatory Care Unit (ACU) Prediction ML Model",
             "irbNumber": [
                 35000,
                 46890
             ],
             "isActive": true,
             "description": "System for submitting and tracking research proposals.",
-            "principalInvestigator": "Dr. Sarah Johnson",
+            "principalInvestigator": "Dr. Tina Hernandez-Boussard",
             "createDate": "2020-05-10"
         },
         {
